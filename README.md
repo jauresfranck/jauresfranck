@@ -72,6 +72,7 @@ Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon exp
 | Catégorie | Projet | Technologies |
 | :--- | :--- | :--- |
 | **Finance / ML** | **Stock Predictor**<br>Outil de prédiction boursière (Séries temporelles). | Python, Pandas, LSTM/Prophet |
+| **Web Dev** | **Site Compétition Foot**<br>Plateforme de gestion de tournois et de matchs de football. | PHP, MySQL, HTML/CSS |
 | **Web / School** | **MyENSIM**<br>Plateforme numérique pour la vie étudiante. | Django, Angular, Docker |
 | **Open Source** | **Outils & Contributions**<br>Scripts utilitaires et gestion de versions. | Python, Git, Bash |
 | **BI** | **Dashboards RH & Ventes**<br>Visualisation de données et indicateurs. | Power BI, Excel |
