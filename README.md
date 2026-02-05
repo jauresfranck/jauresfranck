@@ -69,9 +69,9 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 | Catégorie | Projet | Technologies |
 | :--- | :--- | :--- |
-| **Data Science** | **Segmentation Client & A/B Testing**<br>Clustering optimisé, analyse d'impact marketing. | Python, Pandas, Scikit-learn |
-| **Data Science** | **Prédiction Immobilière**<br>Régression Ridge, analyse des résidus, optimisation RMSE. | Python, Matplotlib, Seaborn |
-| **ML / Web** | **Recommandation de Films**<br>Filtrage collaboratif avec interface utilisateur. | Python, Streamlit/Flask |
+| **Finance / ML** | **Stock Predictor**<br>Outil de prédiction boursière basé sur l'analyse de séries temporelles. | Python, Pandas, LSTM/Prophet |
+| **Web / School** | **MyENSIM**<br>Plateforme numérique pour la vie étudiante de l'école (Projet Académique). | Django, Angular, Docker |
+| **Open Source** | **Outils & Contributions**<br>Développement d'outils utilitaires et contributions open-source. | Python, Git, Bash |
 | **BI** | **Dashboards RH & Ventes**<br>Modélisation de données, mesures DAX, slicers interactifs. | Power BI, Excel |
 
 ---
@@ -79,9 +79,9 @@ Passionné par la valorisation des données, je conçois des solutions technique
 ## 📈 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&theme=dark" height="150" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Langs" />
 </div>
 
 ---
