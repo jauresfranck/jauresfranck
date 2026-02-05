@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+%7C+Backend+%7C+Mobile"
  />
 <p align="center">
   <img 
@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=
 
 Je suis **Nana Talom Franck Jaures**, actuellement en **4e année du cycle ingénieur à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
-Passionné par la valorisation des données, je conçois des solutions techniques complètes : de l'architecture backend à la visualisation décisionnelle, en passant par le traitement et l'analyse de données.
+Passionné par la valorisation des données, je conçois des solutions techniques complètes : de l'architecture backend au développement mobile, en passant par l'analyse de données.
 
 ---
 
@@ -35,8 +35,8 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 * **Data Engineering** : Pipelines ETL, nettoyage de données, SQL avancé, modélisation.
 * **Data Science / ML** : Analyse exploratoire, Scikit-learn (RF, SVC, MLP), prédictions.
+* **Mobile & Backend** : Développement Android natif (Kotlin), API (Django, Symfony).
 * **BI / Décisionnel** : Conception de tableaux de bord, DAX, Power BI, KPIs.
-* **Backend / Web** : Développement d'API (Django, Symfony), intégration de flux de données.
 
 ---
 
@@ -45,6 +45,7 @@ Passionné par la valorisation des données, je conçois des solutions technique
 ### Langages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E" alt="SQL" />
   <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
@@ -55,6 +56,7 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ### Frameworks & Outils
 <div align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=22C55E" alt="Django" />
   <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=EF4444" alt="Angular" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
