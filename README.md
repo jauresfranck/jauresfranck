@@ -1,13 +1,13 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;%C3%89l%C3%A8ve-Ing%C3%A9nieur+%40+ENSIM+(4e+A.);Future+Data+Engineer"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;%C3%89l%C3%A8ve-Ing%C3%A9nieur+%40+ENSIM+(4e+A.);Futur+Ing%C3%A9nieur+Informatique"
  />
 <p align="center">
   <img 
 src="https://img.shields.io/badge/STATUS-%C3%89TUDIANT%20ING%C3%89NIEUR-22C55E?style=for-the-badge&labelColor=0D1117"
  />
   <img 
-src="https://img.shields.io/badge/OBJECTIF-Data%20Engineer-38BDF8?style=for-the-badge&labelColor=0D1117"
+src="https://img.shields.io/badge/OBJECTIF-Ing%C3%A9nieur%20Informatique-38BDF8?style=for-the-badge&labelColor=0D1117"
  />
   <img src="https://img.shields.io/badge/LOCATION-Le%20Mans%2C%20France-A855F7?style=for-the-badge&labelColor=0D1117" />
 </p>
@@ -27,16 +27,16 @@ src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=
 
 Je suis **Nana Talom Franck Jaures**, **élève-ingénieur en 4e année à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
-Passionné par l'informatique et les données, je me spécialise actuellement pour devenir **Data Engineer**. Je développe mes compétences à travers des projets académiques et personnels allant du développement mobile à l'analyse de données.
+Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon expertise technique autour de la **Data** (Ingénierie & Analyse), du **Backend** et du **Mobile**, à travers mes projets académiques et personnels.
 
 ---
 
 ## 🧠 Spécialisations & Apprentissage
 
-* **Data Engineering** : Apprentissage des pipelines ETL, SQL, et modélisation des données.
-* **Data Science / ML** : Projets académiques avec Scikit-learn (RF, SVC, MLP) et prédictions.
-* **Mobile & Backend** : Développement Android natif (Kotlin), API (Django, Symfony).
-* **BI / Décisionnel** : Création de dashboards et KPIs (Power BI, DAX).
+* **Informatique & Backend** : Conception d'API robustes (Django, Symfony) et architectures logicielles.
+* **Data Engineering & BI** : Pipelines de données, SQL avancé, et aide à la décision (Power BI).
+* **Développement Mobile** : Création d'applications natives Android (Kotlin, Android Studio).
+* **Data Science** : Analyse exploratoire et modèles prédictifs (Python, Scikit-learn).
 
 ---
 
