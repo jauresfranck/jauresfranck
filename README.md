@@ -1,29 +1,24 @@
 <div align="center">
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;Data+Engineering+%7C+BI+%7C+Backend;Cycle+Ing%C3%A9nieur+%40+ENSIM"
  />
-<p align="center">
-  <img 
-src="https://img.shields.io/badge/STATUS-BUILDING%20DATA%20SYSTEMS-22C55E?style=for-the-badge&labelColor=0D1117"
- />
-  <img 
-src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38BDF8?style=for-the-badge&labelColor=0D1117"
- />
+</div>
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20DATA%20SYSTEMS-22C55E?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38BDF8?style=for-the-badge&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/LOCATION-Le%20Mans%2C%20France-A855F7?style=for-the-badge&labelColor=0D1117" />
 </p>
-<p align="center">
-  <img 
-src="https://komarev.com/ghpvc/?username=jauresfranck&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
- />
-  <img 
-src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117"
- />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=jauresfranck&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117" />
 </p>
 </div>
 
 ---
 
-## 🧩 TL;DR
+### 👋 À propos
 
 Je suis **Nana Talom Franck Jaures**, actuellement en **4e année du cycle ingénieur à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
@@ -31,7 +26,7 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ---
 
-## 🧠 Domaines d'expertise
+### 🧠 Domaines d'expertise
 
 * **Data Engineering** : Pipelines ETL, nettoyage de données, SQL avancé, modélisation.
 * **Data Science / ML** : Analyse exploratoire, Scikit-learn (RF, SVC, MLP), prédictions.
@@ -40,9 +35,9 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-### Langages
+#### Langages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
@@ -53,7 +48,7 @@ Passionné par la valorisation des données, je conçois des solutions technique
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8B5CF6" alt="PHP" />
 </div>
 
-### Frameworks & Outils
+#### Frameworks & Outils
 <div align="center">
   <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=22C55E" alt="Django" />
   <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=EF4444" alt="Angular" />
@@ -65,7 +60,7 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ---
 
-## 🧪 Projets Académiques & Personnels
+### 🧪 Projets Académiques & Personnels
 
 | Catégorie | Projet | Technologies |
 | :--- | :--- | :--- |
@@ -76,23 +71,24 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ---
 
-## 📈 GitHub Telemetry
+### 📈 GitHub Telemetry
 
 <div align="center">
-<img height="170em" 
+<img height="170em"
 src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
  />
-<img height="170em" 
+<img height="170em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
  />
-<img height="170em" 
+<img height="170em"
 src="https://streak-stats.demolab.com?user=jauresfranck&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
  />
 </div>
 
 ---
 
-## 🔗 Contact
+### 🔗 Contact
 
-* **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/) * **Email** : [talomjaure@icloud.com](mailto:talomjaure@icloud.com)
+* **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/in/votre-profil/)
+* **Email** : [talomjaure@icloud.com](mailto:talomjaure@icloud.com)
 * **GitHub** : [github.com/jauresfranck](https://github.com/jauresfranck/)
