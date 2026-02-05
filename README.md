@@ -13,10 +13,10 @@ src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38B
 </p>
 <p align="center">
   <img 
-src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
+src="https://komarev.com/ghpvc/?username=jauresfranck&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
  />
   <img 
-src="https://img.shields.io/github/followers/VOTRE_USERNAME?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117"
+src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117"
  />
 </p>
 </div>
@@ -80,13 +80,13 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 <div align="center">
 <img height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
+src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
  />
 <img height="170em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
  />
 <img height="170em" 
-src="https://streak-stats.demolab.com?user=VOTRE_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
+src="https://streak-stats.demolab.com?user=jauresfranck&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
  />
 </div>
 
@@ -94,4 +94,4 @@ src="https://streak-stats.demolab.com?user=VOTRE_USERNAME&theme=dark&hide_border
 
 ## 🔗 Contact
 
-* **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/) * **Email** : [ton.email@exemple.com](mailto:ton.email@exemple.com) ```
+* **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/) * **Email** : [talomjaure@icloud.com](mailto:talomjaure@icloud.com)
