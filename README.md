@@ -27,15 +27,15 @@ src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=
 
 Je suis **Nana Talom Franck Jaures**, **élève-ingénieur en 4e année à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
-Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon expertise technique autour de la **Data** (Ingénierie & Analyse), du **Backend** et du **Mobile**, à travers mes projets académiques et personnels.
+Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon expertise technique autour de la **Data**, du **Développement (Backend/Mobile)** et des **Technologies Immersives (VR)**.
 
 ---
 
 ## 🧠 Spécialisations & Apprentissage
 
-* **Informatique & Backend** : Conception d'API robustes (Django, Symfony) et architectures logicielles.
+* **Informatique & Backend** : Conception d'API (Django, Symfony), C# et architectures logicielles.
 * **Data Engineering & BI** : Pipelines de données, SQL avancé, et aide à la décision (Power BI).
-* **Développement Mobile** : Création d'applications natives Android (Kotlin, Android Studio).
+* **Réalité Virtuelle & Mobile** : Projets Unity 3D, interactions VR et applications Android (Kotlin).
 * **Data Science** : Analyse exploratoire et modèles prédictifs (Python, Scikit-learn).
 
 ---
@@ -45,23 +45,24 @@ Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon exp
 ### Langages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
   <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F97316" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=22C55E" alt="SQL" />
-  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
   <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=3B82F6" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JS" />
+  <img src="https://img.shields.io/badge/ShaderLab-0D1117?style=for-the-badge&logo=opengl&logoColor=white" alt="ShaderLab" />
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8B5CF6" alt="PHP" />
 </div>
 
 ### Frameworks & Outils
 <div align="center">
+  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt=".NET" />
   <img src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=22C55E" alt="Django" />
   <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=EF4444" alt="Angular" />
   <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8" alt="Docker" />
   <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FACC15" alt="PowerBI" />
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E" alt="Excel" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </div>
 
@@ -71,10 +72,10 @@ Mon objectif est de devenir **Ingénieur en Informatique**. Je construis mon exp
 
 | Catégorie | Projet | Technologies |
 | :--- | :--- | :--- |
+| **VR / 3D** | **Expérience VR Immersive**<br>Configuration casque VR et finalisation des interactions 3D. | **Unity, C#, ShaderLab**<br>ASP.NET, HLSL |
 | **Finance / ML** | **Stock Predictor**<br>Outil de prédiction boursière (Séries temporelles). | Python, Pandas, LSTM/Prophet |
 | **Web Dev** | **Site Compétition Foot**<br>Plateforme de gestion de tournois et de matchs de football. | PHP, MySQL, HTML/CSS |
 | **Web / School** | **MyENSIM**<br>Plateforme numérique pour la vie étudiante. | Django, Angular, Docker |
-| **Open Source** | **Outils & Contributions**<br>Scripts utilitaires et gestion de versions. | Python, Git, Bash |
 | **BI** | **Dashboards RH & Ventes**<br>Visualisation de données et indicateurs. | Power BI, Excel |
 
 ---
