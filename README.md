@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Betchem+Ngon+Warren+Shamir;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
  />
 <p align="center">
   <img 
@@ -9,14 +9,14 @@ src="https://img.shields.io/badge/STATUS-BUILDING%20DATA%20SYSTEMS-22C55E?style=
   <img 
 src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38BDF8?style=for-the-badge&labelColor=0D1117"
  />
-  <img src="https://img.shields.io/badge/LOCATION-Le%20Mans%2C%20France-A855F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-France-A855F7?style=for-the-badge&labelColor=0D1117" />
 </p>
 <p align="center">
   <img 
-src="https://komarev.com/ghpvc/?username=BetchemNgonWarrenShamir&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
+src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
  />
   <img 
-src="https://img.shields.io/github/followers/BetchemNgonWarrenShamir?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117"
+src="https://img.shields.io/github/followers/VOTRE_USERNAME?label=FOLLOWERS&style=for-the-badge&color=38BDF8&labelColor=0D1117"
  />
 </p>
 </div>
@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/BetchemNgonWarrenShamir?label=FOLLO
 
 ## 🧩 TL;DR
 
-Actuellement en **4e année du cycle ingénieur à l’ENSIM (École Nationale Supérieure d'Ingénieurs du Mans)**, spécialité Informatique.
+Je suis **Nana Talom Franck Jaures**, actuellement en **4e année de cycle ingénieur** (École d'Ingénieur).
 
 Passionné par la valorisation des données, je conçois des solutions techniques complètes : de l'architecture backend à la visualisation décisionnelle, en passant par le traitement et l'analyse de données.
 
@@ -80,13 +80,13 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 <div align="center">
 <img height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=BetchemNgonWarrenShamir&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
+src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
  />
 <img height="170em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetchemNgonWarrenShamir&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
  />
 <img height="170em" 
-src="https://streak-stats.demolab.com?user=BetchemNgonWarrenShamir&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
+src="https://streak-stats.demolab.com?user=VOTRE_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
  />
 </div>
 
@@ -94,5 +94,4 @@ src="https://streak-stats.demolab.com?user=BetchemNgonWarrenShamir&theme=dark&hi
 
 ## 🔗 Contact
 
-* **LinkedIn** : [Warren Shamir Betchem Ngon](https://www.linkedin.com/in/warren-shamir-582b5b348)
-* **Email** : [warrenshamir10@gmail.com](mailto:warrenshamir10@gmail.com)
+* **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/) * **Email** : [ton.email@exemple.com](mailto:ton.email@exemple.com) ```
