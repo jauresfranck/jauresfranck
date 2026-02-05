@@ -1,13 +1,13 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+%7C+Backend+%7C+Mobile"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;%C3%89l%C3%A8ve-Ing%C3%A9nieur+%40+ENSIM+(4e+A.);Future+Data+Engineer"
  />
 <p align="center">
   <img 
-src="https://img.shields.io/badge/STATUS-BUILDING%20DATA%20SYSTEMS-22C55E?style=for-the-badge&labelColor=0D1117"
+src="https://img.shields.io/badge/STATUS-%C3%89TUDIANT%20ING%C3%89NIEUR-22C55E?style=for-the-badge&labelColor=0D1117"
  />
   <img 
-src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38BDF8?style=for-the-badge&labelColor=0D1117"
+src="https://img.shields.io/badge/OBJECTIF-Data%20Engineer-38BDF8?style=for-the-badge&labelColor=0D1117"
  />
   <img src="https://img.shields.io/badge/LOCATION-Le%20Mans%2C%20France-A855F7?style=for-the-badge&labelColor=0D1117" />
 </p>
@@ -25,18 +25,18 @@ src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=
 
 ## 🧩 TL;DR
 
-Je suis **Nana Talom Franck Jaures**, actuellement en **4e année du cycle ingénieur à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
+Je suis **Nana Talom Franck Jaures**, **élève-ingénieur en 4e année à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
-Passionné par la valorisation des données, je conçois des solutions techniques complètes : de l'architecture backend au développement mobile, en passant par l'analyse de données.
+Passionné par l'informatique et les données, je me spécialise actuellement pour devenir **Data Engineer**. Je développe mes compétences à travers des projets académiques et personnels allant du développement mobile à l'analyse de données.
 
 ---
 
-## 🧠 Domaines d'expertise
+## 🧠 Spécialisations & Apprentissage
 
-* **Data Engineering** : Pipelines ETL, nettoyage de données, SQL avancé, modélisation.
-* **Data Science / ML** : Analyse exploratoire, Scikit-learn (RF, SVC, MLP), prédictions.
+* **Data Engineering** : Apprentissage des pipelines ETL, SQL, et modélisation des données.
+* **Data Science / ML** : Projets académiques avec Scikit-learn (RF, SVC, MLP) et prédictions.
 * **Mobile & Backend** : Développement Android natif (Kotlin), API (Django, Symfony).
-* **BI / Décisionnel** : Conception de tableaux de bord, DAX, Power BI, KPIs.
+* **BI / Décisionnel** : Création de dashboards et KPIs (Power BI, DAX).
 
 ---
 
@@ -71,10 +71,10 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 | Catégorie | Projet | Technologies |
 | :--- | :--- | :--- |
-| **Finance / ML** | **Stock Predictor**<br>Outil de prédiction boursière basé sur l'analyse de séries temporelles. | Python, Pandas, LSTM/Prophet |
-| **Web / School** | **MyENSIM**<br>Plateforme numérique pour la vie étudiante de l'école (Projet Académique). | Django, Angular, Docker |
-| **Open Source** | **Outils & Contributions**<br>Développement d'outils utilitaires et contributions open-source. | Python, Git, Bash |
-| **BI** | **Dashboards RH & Ventes**<br>Modélisation de données, mesures DAX, slicers interactifs. | Power BI, Excel |
+| **Finance / ML** | **Stock Predictor**<br>Outil de prédiction boursière (Séries temporelles). | Python, Pandas, LSTM/Prophet |
+| **Web / School** | **MyENSIM**<br>Plateforme numérique pour la vie étudiante. | Django, Angular, Docker |
+| **Open Source** | **Outils & Contributions**<br>Scripts utilitaires et gestion de versions. | Python, Git, Bash |
+| **BI** | **Dashboards RH & Ventes**<br>Visualisation de données et indicateurs. | Power BI, Excel |
 
 ---
 
