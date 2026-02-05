@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Nana+Talom+Franck+Jaures;ENSIM+%7C+4e+Ann%C3%A9e+Cycle+Ing%C3%A9nieur;Data+Engineering+%7C+BI+%7C+Backend"
  />
 <p align="center">
   <img 
@@ -9,7 +9,7 @@ src="https://img.shields.io/badge/STATUS-BUILDING%20DATA%20SYSTEMS-22C55E?style=
   <img 
 src="https://img.shields.io/badge/FOCUS-Data%20Engineering%20%26%20Analytics-38BDF8?style=for-the-badge&labelColor=0D1117"
  />
-  <img src="https://img.shields.io/badge/LOCATION-France-A855F7?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LOCATION-Le%20Mans%2C%20France-A855F7?style=for-the-badge&labelColor=0D1117" />
 </p>
 <p align="center">
   <img 
@@ -25,7 +25,7 @@ src="https://img.shields.io/github/followers/jauresfranck?label=FOLLOWERS&style=
 
 ## 🧩 TL;DR
 
-Je suis **Nana Talom Franck Jaures**, actuellement en **4e année de cycle ingénieur** (École d'Ingénieur).
+Je suis **Nana Talom Franck Jaures**, actuellement en **4e année du cycle ingénieur à l’ENSIM** (École Nationale Supérieure d'Ingénieurs du Mans).
 
 Passionné par la valorisation des données, je conçois des solutions techniques complètes : de l'architecture backend à la visualisation décisionnelle, en passant par le traitement et l'analyse de données.
 
@@ -95,3 +95,4 @@ src="https://streak-stats.demolab.com?user=jauresfranck&theme=dark&hide_border=t
 ## 🔗 Contact
 
 * **LinkedIn** : [Nana Talom Franck Jaures](https://www.linkedin.com/) * **Email** : [talomjaure@icloud.com](mailto:talomjaure@icloud.com)
+* **GitHub** : [github.com/jauresfranck](https://github.com/jauresfranck/)
