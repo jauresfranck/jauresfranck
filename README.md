@@ -71,18 +71,14 @@ Passionné par la valorisation des données, je conçois des solutions technique
 
 ---
 
-### 📈 GitHub Telemetry
+## 📈 GitHub Telemetry
 
 <div align="center">
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=38BDF8&text_color=E5E7EB"
- />
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB"
- />
-<img height="170em"
-src="https://streak-stats.demolab.com?user=jauresfranck&theme=dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=22C55E"
- />
+  <img src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&hide_border=true&theme=dark" height="160" alt="Stats Globales" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&hide_border=true&theme=dark" height="160" alt="Top Langages" />
+  
+  <img src="https://streak-stats.demolab.com?user=jauresfranck&theme=dark&hide_border=true" height="160" alt="Streak" />
 </div>
 
 ---
