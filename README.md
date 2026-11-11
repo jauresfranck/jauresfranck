@@ -136,6 +136,6 @@ Dépôt du portfolio : [github.com/jaures-BUSINESS-INTELLIGENCE](https://github.
 
 ## 🔗 Contact
 
-* **LinkedIn** : [Franck Talom](https://www.linkedin.com/in/franck-talom-1017b92ab/)
+* **LinkedIn** : [Franck Talom](https://www.linkedin.com/in/franck-jaures-talom-1017b92ab)
 * **Email** : [talomjaures@icloud.com](mailto:talomjaures@icloud.com)
 * **GitHub** : [github.com/jauresfranck](https://github.com/jauresfranck/)
