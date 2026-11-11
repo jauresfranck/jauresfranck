@@ -127,9 +127,9 @@ Dépôt du portfolio : [github.com/jaures-BUSINESS-INTELLIGENCE](https://github.
 ## 📈 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jauresfranck&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jauresfranck&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Langs" />
+  <img src="https://raw.githubusercontent.com/jauresfranck/jauresfranck/main/profile-summary-card-output/monokai/3-stats.svg" height="170" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/jauresfranck/jauresfranck/main/profile-summary-card-output/monokai/2-most-commit-language.svg" height="170" alt="Langages les plus utilisés" />
+  <img src="https://raw.githubusercontent.com/jauresfranck/jauresfranck/main/profile-summary-card-output/monokai/1-repos-per-language.svg" height="170" alt="Dépôts par langage" />
 </div>
 
 ---
